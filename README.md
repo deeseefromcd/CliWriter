@@ -1,1 +1,1 @@
-![alt tag](https://raw.github.com/deeseefromcd/CliWriter/branch/docs/Screenshot.png)
+![alt tag](https://raw.github.com/deeseefromcd/CliWriter/master/docs/Screenshot.png)
