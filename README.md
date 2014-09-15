@@ -21,4 +21,4 @@
 </code></pre>
 
 
-![alt tag](https://raw.github.com/deeseefromcd/CliWriter/master/docs/Screenshot.png)
+![screenshot](https://raw.github.com/deeseefromcd/CliWriter/master/docs/Screenshot.png?rnd=1)
