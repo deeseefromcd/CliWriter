@@ -1,4 +1,5 @@
-Example:
+
+<h2>Example:</h2>
 
 <pre><code>
     $countries = array(
