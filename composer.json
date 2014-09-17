@@ -1,0 +1,12 @@
+{
+    "name": "deeseefromcd/cliwriter",
+    "description": "PHP-library for a beautiful output to the console. Color, progressbar, table",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Borisov Aleksey",
+            "email": "mclaren_f1@mail.ru"
+        }
+    ]
+}
